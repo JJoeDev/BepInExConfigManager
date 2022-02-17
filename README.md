@@ -7,4 +7,4 @@ Everything required is a one time setup and a savedPaths folder in the same dire
 
 This is how the install folder should look right now. Don't change it
 
-![](assets/images/ForGithub1.png)
+![image](assets/images/ForGithub1.png)

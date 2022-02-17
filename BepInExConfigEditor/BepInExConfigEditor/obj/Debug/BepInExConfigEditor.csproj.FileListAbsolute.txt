@@ -1,0 +1,11 @@
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\bin\Debug\BepInExConfigEditor.exe.config
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\bin\Debug\BepInExConfigEditor.exe
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\bin\Debug\BepInExConfigEditor.pdb
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.csproj.AssemblyReference.cache
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.Form1.resources
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.Properties.Resources.resources
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.csproj.GenerateResource.cache
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.csproj.CoreCompileInputs.cache
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.exe
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.pdb
+C:\Users\jknud\Desktop\c#\APPS\BepInExConfigEditor\BepInExConfigEditor\obj\Debug\BepInExConfigEditor.Credits.resources

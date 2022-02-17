@@ -6,4 +6,5 @@ Everything required is a one time setup and a savedPaths folder in the same dire
 # INSTALL
 
 This is how the install folder should look right now. Don't change it
-![grab-release-page](https://github.com/jona939s/Trail-monkey/blob/main/pictures/ForGithub1.png)
+
+![grab-release-page](https://github.com/jona939s/BepInExConfigManager/tree/main/pictures)

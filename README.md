@@ -15,7 +15,7 @@ In the top you will see a file path. If you dont see it and it says something li
 
 You don't have to use the browse button, you can also just paste the path in the Saved_path.txt file
 
-![image](assets/images/quickImage.png)
+![image](assets/images/quickImage1.png)
 
 If you do use the browse button you will have to find the game with the BepInEx folder you want to link the app to. This can be changed later
 

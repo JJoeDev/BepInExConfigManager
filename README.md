@@ -7,4 +7,4 @@ Everything required is a one time setup and a savedPaths folder in the same dire
 
 This is how the install folder should look right now. Don't change it
 
-![Image](https://github.com/jona939s/BepInExConfigManager/tree/main/assets/images/ForGithub1.png)
+![](assets/images/ForGithub1.png)
